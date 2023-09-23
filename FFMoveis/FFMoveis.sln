@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFMoveis", "FFMoveis.csproj", "{6715A324-6ACC-41EE-8767-975F8650E045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFMoveis.Dominio", "..\FFMoveis.Dominio\FFMoveis.Dominio.csproj", "{31B7D3F4-C85F-42DC-AB8D-CB93A9B9681F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFMoveis.RepositorioEF", "..\FFMoveis.RepositorioEF\FFMoveis.RepositorioEF.csproj", "{A63F5946-2950-435F-AE2D-8C844A74424E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFMoveis.Aplicacao", "..\FFMoveis.Aplicacao\FFMoveis.Aplicacao.csproj", "{0C27194D-3E15-43F3-B71B-4453FE84E0BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6715A324-6ACC-41EE-8767-975F8650E045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6715A324-6ACC-41EE-8767-975F8650E045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6715A324-6ACC-41EE-8767-975F8650E045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6715A324-6ACC-41EE-8767-975F8650E045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B7D3F4-C85F-42DC-AB8D-CB93A9B9681F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B7D3F4-C85F-42DC-AB8D-CB93A9B9681F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B7D3F4-C85F-42DC-AB8D-CB93A9B9681F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B7D3F4-C85F-42DC-AB8D-CB93A9B9681F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63F5946-2950-435F-AE2D-8C844A74424E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63F5946-2950-435F-AE2D-8C844A74424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63F5946-2950-435F-AE2D-8C844A74424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63F5946-2950-435F-AE2D-8C844A74424E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C27194D-3E15-43F3-B71B-4453FE84E0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C27194D-3E15-43F3-B71B-4453FE84E0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C27194D-3E15-43F3-B71B-4453FE84E0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C27194D-3E15-43F3-B71B-4453FE84E0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF9AFB8-2A09-430A-945F-9772F0867CD5}
+	EndGlobalSection
+EndGlobal
